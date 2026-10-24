@@ -195,3 +195,7 @@ Then open your browser at **http://localhost:5000**
 <div align="center">
 Built with MohamedBahaa using Flask · TensorFlow · scikit-learn
 </div>
+
+## 👥 Contributors
+   - Gerges ([@Gerges1245](https://github.com/Gerges1245))
+   - Mohamed Bahaa ([@MB1382005](https://github.com/MB1382005))
